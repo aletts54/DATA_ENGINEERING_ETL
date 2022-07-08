@@ -13,6 +13,9 @@ async def create_upload_files(files: List[UploadFile]):
 @app.get("/")
 async def main():
     content = """
+<style>
+form action {text-align: center;}
+</style>
 <form action="/uploadfiles/" enctype="multipart/form-data" method="post">
 <input name="files" type="file" multiple>
 <input type="submit">
