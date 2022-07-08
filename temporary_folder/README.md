@@ -1,0 +1,1 @@
+#### Temporary folder to save csv files to be uploaded to PostgreSQL using Apache Spark
