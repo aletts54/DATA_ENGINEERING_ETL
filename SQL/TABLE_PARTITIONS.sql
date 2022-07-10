@@ -1,3 +1,4 @@
+#Creates PostgreSQL table and table Partitions to be scalable 
 
 CREATE TABLE IF NOT EXISTS public.trips
 (
