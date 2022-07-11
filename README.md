@@ -44,7 +44,7 @@ uvicorn main:app --reload
 
 Then you can go to your localhost on port 8000 http://127.0.0.1:8000/ to try the application. Firewalls, networks configurations or even docker could make the application not run or fail.
 
-If you have problems running the docker image as it was made with an ARM Docker Image and not a x86 one I suggest to build one like this: 
+If you have problems running the docker image as it was made with an ARM Docker Image and not a x86 one I suggest to build one like this or I can help you to build one: 
 
 **Building own docker image**
 
