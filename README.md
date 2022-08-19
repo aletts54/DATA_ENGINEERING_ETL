@@ -91,4 +91,3 @@ uvicorn main:app --reload
 
 As I said then you can go to your localhost on port 8000 http://127.0.0.1:8000/ to try the application. Firewalls, networks configurations or even docker could make the application not run or fail.
 
-![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/aletts54/DATA_ENGINEERING_ETL/master/imagen/imagen_prueba.png)
