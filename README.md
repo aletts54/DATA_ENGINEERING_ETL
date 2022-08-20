@@ -20,7 +20,7 @@ REST API with the Fast API Python library that displays a basic custom HTML webp
 
 **Instalation and running**
 
-Load and run the ARM docker image attached on my email and execute
+Load and run the ARM docker image attached on my email and execute.
 
 
 Loads the Docker Image.
