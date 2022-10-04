@@ -1,5 +1,5 @@
 # DATA ENGINEERING ETL
-An REST API ETL PySpark Docker containerized program that automatically ingest trips taken by different vehicles, points of origin and a destination CSV files into a PostgreSQL Database
+An REST API ETL PySpark Docker containerized program that automatically ingest trips taken by different vehicles, points of origin and a destination CSV files into a PostgreSQL Database.
 
 **Technologies Involved:** 
 - Python 3
@@ -11,7 +11,7 @@ An REST API ETL PySpark Docker containerized program that automatically ingest t
 
 **Main Functionality:**
 
-REST API with the Fast API Python library that displays a basic custom HTML webpage with 3 Post Methods to upload data into PostgreSQL and calculates weekly average trips by area or region
+REST API with the Fast API Python library that displays a basic custom HTML webpage with 3 Post Methods to upload data into PostgreSQL and calculates weekly average trips by area or region.
 
 **Project Folders**
 - **API:** Contains the main  program, it's a REST API python code that triggers an Apache Spark ETL Job. 
