@@ -1,5 +1,5 @@
 # DATA ENGINEERING ETL
-An REST API ETL PySpark Docker containerized program that automatically ingest trips taken by different vehicles, points of origin and a destination CSV files into a PostgreSQL Database.
+An REST API ETL PySpark Docker containerized program that automatically ingest trips taken by different vehicles, points of origin and a destination CSV files into a PostgreSQL Database
 
 **Technologies Involved:** 
 - Python 3
